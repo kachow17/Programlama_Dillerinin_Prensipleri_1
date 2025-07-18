@@ -1,0 +1,1 @@
+deneme dosyasını dist içine atmanız gerekmektedir.
